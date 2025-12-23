@@ -30,5 +30,5 @@ python github_pr_stats.py --user <github_username> --start <YYYY-MM-DD> --end <Y
 ```
 example 
 ```bash
-python github_pr_stats.py --user Rizwan102003 --start 2025-11-01 --end 2025-12-31 --label wocs
+python github_pr_stats.py --user Rizwan102003 --start 2025-11-01 --end 2025-12-31 --label wocs --label "level 1"
 ```
